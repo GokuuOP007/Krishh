@@ -1,9 +1,4 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         KRITAGYA DUBEY · PROFILE                           ║
-║                      Discord Bot Developer · 15 · India                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
+=
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Kritagya+Dubey;Discord+Bot+Developer;Node.js+%26+Python+Enthusiast;15+%C2%B7+India;Building+the+Future+of+Automation" alt="Typing Animation" />
